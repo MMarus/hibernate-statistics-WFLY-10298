@@ -1,0 +1,1 @@
+INSERT INTO PRODUCT (id,version,name) VALUES	(11,'ver1','Hello');
